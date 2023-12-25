@@ -1,0 +1,10 @@
+body{font-family: arial !important;}
+@font-face {
+ font-family: Font1;
+ src: url('fonts/Kruti-Dev-010.eot')
+}
+@font-face
+{
+font-family: Font1;
+src: url('fonts/Kruti-Dev-010.ttf');
+}
