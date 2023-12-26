@@ -17,7 +17,7 @@ textarea#unicode_text {
 	resize: horizontal;
 	line-height:40px;
 	padding: 40px 10px 34px 65px;
-	background-image:url(lines1.png), url(paper.png);
+	background-image:url(https://mukkaswan.github.io/lines1.png), url(https://mukkaswan.github.io/paper.png);
 	background-repeat:repeat-y, repeat;
 	-webkit-border-radius:2px;
 	border-radius:	2px;
