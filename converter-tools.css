@@ -10,7 +10,7 @@ src: url('fonts/Kruti-Dev-010.ttf');
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 5px;
 }
 ::-webkit-scrollbar-track {
   background: #f1f1f1; 
