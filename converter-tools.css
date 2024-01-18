@@ -47,7 +47,7 @@ textarea#unicode_text {
  	background-color: #262626;
  	color: #000000;
 	background-image:url(https://mukkaswan.github.io/lines1.png), url(https://mukkaswan.github.io/paper.png);
-	background-repeat:repeat-y, repeat;
+	background-repeat:repeat;
 	background-attachment: scroll;
 	-webkit-border-radius:2px;
 	border-radius:	2px;
