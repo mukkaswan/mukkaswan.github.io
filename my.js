@@ -4,24 +4,6 @@ function copy_data_unicode(){
     document.execCommand('copy');
 }
 
-/* Loading indicator functions */
-var conversionTimer;
-
-function showLoading() {
-    document.getElementById("loadDiv1").classList.remove("w3-hide");
-    document.getElementById("loadDiv2").classList.remove("w3-hide");
-}
-
-function hideLoading() {
-    document.getElementById("loadDiv1").classList.add("w3-hide");
-    document.getElementById("loadDiv2").classList.add("w3-hide");
-}
-
-function setTimer() {
-    showLoading();
-    if (conversionTimer) clearTimeout(conversionTimer);
-    conversionTimer = setTimeout(hideLoading, 500);
-}
 
 /*enable tab function in all textareas */
 const textareas = document.querySelectorAll('textarea');
